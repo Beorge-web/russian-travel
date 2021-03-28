@@ -1,0 +1,15 @@
+.root__section_margins_left-right {
+  margin-right: 148px;
+  margin-left: 148px;
+}
+@media screen and (max-width: 1100px) {
+  .root__section_margins_left-right {
+    margin: 0 48px;
+  }
+}
+@media screen and (max-width: 950px) {
+  .root__section_margins_left-right {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
