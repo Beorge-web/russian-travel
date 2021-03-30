@@ -5,9 +5,8 @@
   background-image: url(../../images/cover-trains.jpg);
   min-height: 740px;
   background-size: 100% 100%;
-  text-decoration: none;
+  background-position: center;
   z-index: 1;
-  color: #fff;
 }
 .cover::after {
   content: "";
@@ -23,7 +22,6 @@
 }
 .cover:hover::after {
   opacity: 0.8;
-  background-color: #2a2c2f;
 }
 @media screen and (max-width: 1100px) {
   .cover {

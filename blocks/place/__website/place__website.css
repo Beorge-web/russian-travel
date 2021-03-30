@@ -1,6 +1,5 @@
 .place__website {
   align-self: end;
-  text-decoration: none;
   width: fit-content;
 }
 @media screen and (max-width: 700px) {

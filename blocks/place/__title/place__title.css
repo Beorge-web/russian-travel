@@ -5,6 +5,8 @@
   font-size: 72px;
   line-height: 76px;
   margin: 0;
+  align-self: flex-end;
+  height: fit-content;
 }
 @media screen and (max-width: 950px) {
   .place__title {
