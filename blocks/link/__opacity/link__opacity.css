@@ -1,0 +1,5 @@
+.link__opacity:hover {
+  opacity: 0.8;
+}
+
+/*Для того чтобы ховер не был сразу на двух ссылках я добавлял header__lang-link_en*/
